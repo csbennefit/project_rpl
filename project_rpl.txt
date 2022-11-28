@@ -2,3 +2,6 @@ Project RPL Semester 3
 - Arsikom
 - Basdat
 - PBO
+- Pengraf (Selesai)
+- TRO
+- APSI (Selesai)
