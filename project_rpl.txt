@@ -1,7 +1,7 @@
 Project RPL Semester 3
-- Arsikom
-- Basdat
-- PBO
-- Pengraf (Selesai)
-- TRO
-- APSI (Selesai)
+- Arsikom, membuat app perpustakaan online sederhana
+- Basdat, bikin database dari project APSI
+- PBO, gui swing
+- Pengraf (Selesai), membuat website prodi ekowisata menggunakan wordpress
+- TRO, contoh kasus teknik riset operasi, coding di jupiter
+- APSI (Selesai), perancangan buat app dr.plants
